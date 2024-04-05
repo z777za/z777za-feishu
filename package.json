@@ -1,5 +1,5 @@
 {
-  "name": "feishu-notifier",
+  "name": "z777za-feishu",
   "version": "1.0.2",
   "description": "feishu notify util",
   "main": "index.js",
@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moncici007/feishu-notify"
+    "url": "https://github.com/z777za/z777za-feishu"
   },
-  "website": "https://github.com/moncici007/feishu-notify.git",
+  "website": "https://github.com/z777za/z777za-feishu.git",
   "keywords": [
     "feishu",
-    "notify",
+    "notify-z777za",
     "nodejs"
   ],
-  "author": "moncici007",
+  "author": "z777za",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/moncici007/feishu-notify/issues"
+    "url": "https://github.com/z777za/z777za-feishu/issues"
   },
-  "homepage": "https://github.com/moncici007/feishu-notify#readme",
+  "homepage": "https://github.com/z777za/z777za-feishu#readme",
   "dependencies": {
     "@moncici/log": "^1.0.2",
     "dotenv": "^16.4.5",
