@@ -1,7 +1,7 @@
 {
   "name": "z777za-feishu",
   "version": "1.0.2",
-  "description": "feishu notify util",
+  "description": "feishu notify-z777za util",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
